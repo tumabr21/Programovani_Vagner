@@ -1,0 +1,287 @@
+tumabr21@DST10217 MINGW64 ~
+$ git init
+Initialized empty Git repository in C:/Users/tumabr21/.git/
+
+tumabr21@DST10217 MINGW64 ~ (master)
+$ git init programovani_vagner
+Initialized empty Git repository in C:/Users/tumabr21/programovani_vagner/.git/
+
+tumabr21@DST10217 MINGW64 ~ (master)
+$ git status
+warning: could not open directory 'Data aplikací/': Permission denied
+warning: could not open directory 'Documents/Filmy/': Permission denied
+warning: could not open directory 'Documents/Hudba/': Permission denied
+warning: could not open directory 'Documents/Obrázky/': Permission denied
+warning: could not open directory 'Dokumenty/': Permission denied
+warning: could not open directory 'Local Settings/': Permission denied
+warning: could not open directory 'Nabídka Start/': Permission denied
+warning: could not open directory 'Okolní síť/': Permission denied
+warning: could not open directory 'Okolní tiskárny/': Permission denied
+warning: could not open directory 'Poslední/': Permission denied
+warning: could not open directory 'SendTo/': Permission denied
+warning: could not open directory 'Soubory cookie/': Permission denied
+warning: could not open directory 'Šablony/': Permission denied
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .bash_history
+        .gitconfig
+        .lesshst
+        .vscode/
+        AppData/
+        Contacts/
+        Favorites/
+        Links/
+        NTUSER.DAT
+        NTUSER.DAT{56339de0-19ed-11ef-926c-e073e7b36e1a}.TM.blf
+        NTUSER.DAT{56339de0-19ed-11ef-926c-e073e7b36e1a}.TMContainer00000000000000000001.regtrans-ms
+        NTUSER.DAT{56339de0-19ed-11ef-926c-e073e7b36e1a}.TMContainer00000000000000000002.regtrans-ms
+        Saved Games/
+        Searches/
+        ntuser.dat.LOG1
+        ntuser.dat.LOG2
+        ntuser.ini
+        programovani_vagner/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+tumabr21@DST10217 MINGW64 ~ (master)
+$ git commit
+warning: could not open directory 'Data aplikací/': Permission denied
+warning: could not open directory 'Documents/Filmy/': Permission denied
+warning: could not open directory 'Documents/Hudba/': Permission denied
+warning: could not open directory 'Documents/Obrázky/': Permission denied
+warning: could not open directory 'Dokumenty/': Permission denied
+warning: could not open directory 'Local Settings/': Permission denied
+warning: could not open directory 'Nabídka Start/': Permission denied
+warning: could not open directory 'Okolní síť/': Permission denied
+warning: could not open directory 'Okolní tiskárny/': Permission denied
+warning: could not open directory 'Poslední/': Permission denied
+warning: could not open directory 'SendTo/': Permission denied
+warning: could not open directory 'Soubory cookie/': Permission denied
+warning: could not open directory 'Šablony/': Permission denied
+warning: could not open directory 'Data aplikací/': Permission denied
+warning: could not open directory 'Documents/Filmy/': Permission denied
+warning: could not open directory 'Documents/Hudba/': Permission denied
+warning: could not open directory 'Documents/Obrázky/': Permission denied
+warning: could not open directory 'Dokumenty/': Permission denied
+warning: could not open directory 'Local Settings/': Permission denied
+warning: could not open directory 'Nabídka Start/': Permission denied
+warning: could not open directory 'Okolní síť/': Permission denied
+warning: could not open directory 'Okolní tiskárny/': Permission denied
+warning: could not open directory 'Poslední/': Permission denied
+warning: could not open directory 'SendTo/': Permission denied
+warning: could not open directory 'Soubory cookie/': Permission denied
+warning: could not open directory 'Šablony/': Permission denied
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .bash_history
+        .gitconfig
+        .lesshst
+        .vscode/
+        AppData/
+        Contacts/
+        Favorites/
+        Links/
+        NTUSER.DAT
+        NTUSER.DAT{56339de0-19ed-11ef-926c-e073e7b36e1a}.TM.blf
+        NTUSER.DAT{56339de0-19ed-11ef-926c-e073e7b36e1a}.TMContainer00000000000000000001.regtrans-ms
+        NTUSER.DAT{56339de0-19ed-11ef-926c-e073e7b36e1a}.TMContainer00000000000000000002.regtrans-ms
+        Saved Games/
+        Searches/
+        ntuser.dat.LOG1
+        ntuser.dat.LOG2
+        ntuser.ini
+        programovani_vagner/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+tumabr21@DST10217 MINGW64 ~ (master)
+$ commit
+bash: commit: command not found
+
+tumabr21@DST10217 MINGW64 ~ (master)
+$ rm -rf .git
+
+tumabr21@DST10217 MINGW64 ~
+$ cd /r/github
+
+tumabr21@DST10217 MINGW64 /r/github
+$ git init
+Initialized empty Git repository in //data.sps-prosek.local/tumabr21/github/.git/
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$ commit 1.zkouska
+bash: commit: command not found
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$ commit
+bash: commit: command not found
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        1.zkouska.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$ git commit
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        1.zkouska.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        1.zkouska.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$ git add <2.zkouska>
+bash: syntax error near unexpected token `newline'
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        1.zkouska.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$ git add </r/_4EA_/2.zkouska.tx>
+bash: syntax error near unexpected token `newline'
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$ ^C
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$ git add /r/_4EA_/2.zkouska.txt
+fatal: R:/_4EA_/2.zkouska.txt: 'R:/_4EA_/2.zkouska.txt' is outside repository at '//data.sps-prosek.local/tumab
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$ dit status
+bash: dit: command not found
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        1.zkouska.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$ git add /r/_4EA_/2.zkouska.txt
+fatal: R:/_4EA_/2.zkouska.txt: 'R:/_4EA_/2.zkouska.txt' is outside repository at '//data.sps-prosek.local/tumab
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$ commit
+bash: commit: command not found
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        1.zkouska.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$ git add /r/_4EA_/2.zkouska.txt
+fatal: R:/_4EA_/2.zkouska.txt: 'R:/_4EA_/2.zkouska.txt' is outside repository at '//data.sps-prosek.local/tumab
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$ commit
+bash: commit: command not found
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$ git remote -v
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$ git remote add origin https://github.com/tumabr21/Programovani_Vagner.git
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$ git remote -v
+origin  https://github.com/tumabr21/Programovani_Vagner.git (fetch)
+origin  https://github.com/tumabr21/Programovani_Vagner.git (push)
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$ git push -u origin master
+error: src refspec master does not match any
+error: failed to push some refs to 'https://github.com/tumabr21/Programovani_Vagner.git'
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$ git log
+fatal: your current branch 'master' does not have any commits yet
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        1.zkouska.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$ git add .
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$ git commit -m "init"
+[master (root-commit) a003009] init
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 1.zkouska.txt
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$ git push -u origin master
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 215 bytes | 107.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/tumabr21/Programovani_Vagner.git
+ * [new branch]      master -> master
+branch 'master' set up to track 'origin/master'.
+
+tumabr21@DST10217 MINGW64 /r/github (master)
+$
